@@ -11,4 +11,4 @@ The anual drawing of the growth rate as a random variable renders the observed r
 
 Figure (1) illustrates a single investment simulation. The initial capital was 1000.0 € with a monthly saving rate of 100.0 €. Further hyperparameter can be found in the main.py  file. The left subplot illustrates the investment over time compared to a basline approach. The right subplot depicts the anual growth rate that was drawn during simulation.
 
-Figure (2) summarizes the returns, if the random process of figure (1) is realized 10000 times. The left plot contains the actual value of the investment.
+Figure (2) summarizes the returns, if the random process of figure (1) is realized 10000 times. The left plot contains the actual value of the investment and the right figure states the relative profit referenced to the intrest-based investment.
